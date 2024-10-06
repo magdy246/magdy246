@@ -67,11 +67,10 @@
        style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 60%; max-width: 100%; display: block; margin: 10px auto;" />
 </div>
 
-<div align="center" style="width: 100%; max-width: 400px; margin: auto;">
-  <h2 style="color: #2E8BC0;">Visitor Count</h2>
+<div align="start" style="width: 100%; max-width: 400px; margin: auto;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=magdy246.magdy246" 
        alt="Visitors" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 25%; max-width: 30%; display: block; margin: 10px auto;" />
+       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 20%; max-width: 30%; display: block; margin: auto;" />
 </div>
 
 <br>
