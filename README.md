@@ -16,30 +16,30 @@
 <h1 align="center"> 💻 Tech Stack </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js"/>
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-  <img src="https://img.shields.io/badge/ajax-%2300C7B7.svg?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX"/>
-  <img src="https://img.shields.io/badge/es6-%234ECD3C.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="ES6"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/react_query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query"/>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux.js"/>
-  <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/Flowbite-%233933CC.svg?style=for-the-badge&logo=flowbite&logoColor=white" alt="Flowbite"/>
-  <img src="https://img.shields.io/badge/Shadcn-%23000000.svg?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn"/>
-  <img src="https://img.shields.io/badge/DesiUI-%233AA69D.svg?style=for-the-badge&logo=desiui&logoColor=white" alt="DesiUI"/>
-  <img src="https://img.shields.io/badge/APIs-%233399FF.svg?style=for-the-badge&logo=api&logoColor=white" alt="APIs"/>
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/i18next-%2369C9D0.svg?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next"/>
-  <img src="https://img.shields.io/badge/Regex-%231C3F8A.svg?style=for-the-badge&logo=regex&logoColor=white" alt="Regex"/>
-  <img src="https://img.shields.io/badge/Chart.js-%23632E3B.svg?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="Chart.js"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/tailwindcss-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/ajax-%2300C7B7.svg?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/es6-%234ECD3C.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="ES6"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/react_query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux.js"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Flowbite-%233933CC.svg?style=for-the-badge&logo=flowbite&logoColor=white" alt="Flowbite"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Shadcn-%23000000.svg?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/DesiUI-%233AA69D.svg?style=for-the-badge&logo=desiui&logoColor=white" alt="DesiUI"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/APIs-%233399FF.svg?style=for-the-badge&logo=api&logoColor=white" alt="APIs"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/i18next-%2369C9D0.svg?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Regex-%231C3F8A.svg?style=for-the-badge&logo=regex&logoColor=white" alt="Regex"/>
+  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Chart.js-%23632E3B.svg?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="Chart.js"/>
 </div>
 
 <br/>
