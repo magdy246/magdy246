@@ -64,10 +64,10 @@
        style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 60%; display: block; margin: 10px auto;" />
 </div>
 
-<div align="start" style="width: 20%;">
+<div align="center" style="width: 20%;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=magdy246.magdy246" 
        alt="Visitors" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 30%; display: block; margin: 10px auto;" />
+       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 25%; display: block; margin: 10px auto;" />
 </div>
 
 <br>
