@@ -49,25 +49,25 @@
 <div align="center" style="max-width: 400px; width: 100%; margin: auto;">
   <img src="https://streak-stats.demolab.com?user=magdy246&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D" 
        alt="GitHub Streak" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 100%; max-width: 60%; display: block; margin: 10px auto;" />
+       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 60%; max-width: 100%; display: block; margin: 10px auto;" />
 </div>
 
 <div align="center" style="max-width: 400px; width: 100%; margin: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=magdy246&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" 
        alt="Top Languages" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 100%; max-width: 60%; display: block; margin: 10px auto;" />
+       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 60%; max-width: 100%; display: block; margin: 10px auto;" />
 </div>
 
 <div align="center" style="max-width: 400px; width: 100%; margin: auto;">
   <img src="https://github-readme-stats.vercel.app/api?username=magdy246&show_icons=true&theme=radical&hide_border=true" 
        alt="GitHub Stats" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 100%; max-width: 60%; display: block; margin: 10px auto;" />
+       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 60%; max-width: 100%; display: block; margin: 10px auto;" />
 </div>
 
 <div align="center" style="width: 100%; max-width: 400px; margin: auto;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=magdy246.magdy246" 
        alt="Visitors" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 25%; max-width: 30%; display: block; margin: 10px auto;" />
+       style="border: 2px solid #2E8BC0; text-align: start; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 25%; max-width: 30%; display: block; margin: 10px auto;" />
 </div>
 
 <br>
