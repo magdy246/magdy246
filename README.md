@@ -46,29 +46,24 @@
 
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #2E8BC0;"> 📊 GitHub Stats </h2>
 
-<div align="center" style="max-width: 400px; width: 100%;">
+<div style="display: flex; flex-direction: column; align-items: center; max-width: 400px; width: 100%; margin: auto;">
   <img src="https://streak-stats.demolab.com?user=magdy246&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D" 
        alt="GitHub Streak" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 60%; display: block; margin: 10px auto;" />
-</div>
-
-<div align="center" style="max-width: 400px; width: 100%;">
+       style="border: 2px solid #4A90E2; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); width: 100%; margin: 10px 0; max-width: 100%;" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=magdy246&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" 
        alt="Top Languages" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 60%; display: block; margin: 10px auto;" />
-</div>
-
-<div align="center" style="max-width: 400px; width: 100%;">
+       style="border: 2px solid #4A90E2; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); width: 100%; margin: 10px 0; max-width: 100%;" />
+  
   <img src="https://github-readme-stats.vercel.app/api?username=magdy246&show_icons=true&theme=radical&hide_border=true" 
        alt="GitHub Stats" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 60%; display: block; margin: 10px auto;" />
-</div>
-
-<div align="center" style="width: 20%;">
+       style="border: 2px solid #4A90E2; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); width: 100%; margin: 10px 0; max-width: 100%;" />
+  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=magdy246.magdy246" 
        alt="Visitors" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 25%; display: block; margin: 10px auto;" />
+       style="border: 2px solid #4A90E2; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); width: 100%; max-width: 130px; margin: 10px 0;" />
 </div>
+
 
 <br>
 
