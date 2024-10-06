@@ -167,7 +167,7 @@
 
 ---
 
-<h1 align="center"> 🎉 Thank You for Visiting My Profile! 🎉 </h1>
+<h3 align="center"> 🎉 Thank You for Visiting My Profile! 🎉 </h3>
 
 <div align="start" style="width: 100%; max-width: 400px; margin: auto;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=magdy246.magdy246" 
