@@ -5,6 +5,8 @@
   </a>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!+You+Are+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
+
 <p align="center">
   I’m a dedicated Front-End Developer passionate about turning concepts into dynamic, user-centric digital experiences. With a strong background in modern web technologies and design, I enjoy tackling challenges to build responsive and intuitive applications. Through my time at Route Academy, where I consistently ranked among the top students and completed several hands-on projects, I’ve honed my skills over two years of focused study in programming and web development. As I continue to learn and take on new projects, I’m always seeking opportunities to grow and push the boundaries of my expertise in this ever-evolving field.
 </p>
@@ -164,13 +166,3 @@
 ---
 
 <p align="center"> ⏳ I'm currently learning and working on exciting new projects! Stay tuned for updates!</p>
-
----
-
-<h3 align="center"> 🎉 Thank You for Visiting My Profile! 🎉 </h3>
-
-<div align="start" style="width: 100%; max-width: 400px; margin: auto;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=magdy246.magdy246" 
-       alt="Visitors" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 20%; max-width: 30%; display: block; margin: auto;" />
-</div>
