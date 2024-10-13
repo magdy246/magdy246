@@ -174,7 +174,4 @@
 
 ---
 
-<p>
-  <img align="center" src="https://github.com/magdy246/magdy246/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Magdy246" >
-</p>
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="magdy's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=magdy246&theme=redical"/></a>
