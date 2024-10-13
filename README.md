@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer;UI+Developer;React+js&center=true&width=500&size=28&color=ffa500" alt="Typing SVG">
   </a>
 </div>
----
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=magdy246&label=Profile%20views&color=0e75b6&style=flat" alt="magdy246" /> 
 </p>
@@ -171,3 +171,7 @@
 ---
 
 <p align="center"> ⏳ I'm currently learning and working on exciting new projects! Stay tuned for updates!</p>
+
+---
+
+<p><img align="center" src="https://github.com/magdy246/magdy246/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="magdy246" ></p>
