@@ -5,13 +5,6 @@
   </a>
 </div>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=magdy246&label=Profile%20views&color=0e75b6&style=flat" alt="magdy246" /> 
-</p>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!+You+Are+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
-
 <p align="center">
   I’m a dedicated Front-End Developer passionate about turning concepts into dynamic, user-centric digital experiences. With a strong background in modern web technologies and design, I enjoy tackling challenges to build responsive and intuitive applications. Through my time at Route Academy, where I consistently ranked among the top students and completed several hands-on projects, I’ve honed my skills over two years of focused study in programming and web development. As I continue to learn and take on new projects, I’m always seeking opportunities to grow and push the boundaries of my expertise in this ever-evolving field.
 </p>
@@ -189,5 +182,15 @@
     <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg" 
          alt"Check out my commit history!" />
   </a>
+
+---
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=magdy246&label=Profile%20views&color=0e75b6&style=flat" alt="magdy246" /> 
+</p>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!+You+Are+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
+
 
 
