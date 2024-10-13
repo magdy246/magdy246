@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-  <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/Magdy-Abu-El-nour-10-13-2024.gif" alt="magdy" />
+  <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/Magdy-Abu-El-nour-10-14-2024.gif" alt="magdy" />
 </h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer;UI+Developer;React+js&center=true&width=500&size=28&color=ffa500" alt="Typing SVG">
@@ -184,6 +184,7 @@
          alt"Check out my commit history!" />
   </a>
 </div>
+
 ---
 
 <p align="left"> 
