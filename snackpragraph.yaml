@@ -35,7 +35,7 @@ jobs:
         with:
           target_branch: media
           build_dir: dist
-          keep_history: false # Dangerous, but default
+          keep_history: false
           commit_message: Update the commit graph snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
