@@ -173,6 +173,7 @@
 <!-- Commit Snake! -->
   
 <h1 align="center"> Dynamic GitHub Commit </h1>
+<div align="center">
   <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" 
        alt"Check out my commit history!" />
@@ -182,7 +183,7 @@
     <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg" 
          alt"Check out my commit history!" />
   </a>
-
+</div>
 ---
 
 <p align="left"> 
