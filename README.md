@@ -174,4 +174,7 @@
 
 ---
 
-<p><img align="center" src="https://github.com/magdy246/magdy246/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="magdy246" ></p>
+<p>
+  <img align="center" src="https://github.com/magdy246/magdy246/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Magdy246" >
+</p>
+
