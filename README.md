@@ -180,12 +180,15 @@
 
 <!-- Commit Snake! -->
 
-<a href="https://raw.githubusercontent.com/magdy246/magdy246/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+<!-- For Dark Mode -->
+<a href="https://raw.githubusercontent.com/magdy246/magdy246/media/github-contribution-grid-snake-dark.svg" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/magdy246/magdy246/media/github-contribution-grid-snake-dark.svg" 
        alt="Check out my commit history!" />
 </a>
 
-<a href="https://raw.githubusercontent.com/magdy246/magdy246/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+<!-- For Light Mode -->
+<a href="https://raw.githubusercontent.com/magdy246/magdy246/media/github-contribution-grid-snake.svg" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/magdy246/magdy246/media/github-contribution-grid-snake.svg" 
        alt="Check out my commit history!" />
 </a>
+
