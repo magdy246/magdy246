@@ -67,7 +67,10 @@
        style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 80%; max-width: 100%; display: block; margin: 10px auto;" />
 </div>
 
+<div align="center" style="max-width: 400px; width: 100%; margin: auto;">
+  <h2 style="color: #2E8BC0;">📊 GitHub Graph</h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="magdy's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=magdy246&theme=redical"/></a>
+</div>
 
 ---
 
