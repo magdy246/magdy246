@@ -1,6 +1,13 @@
 <div align="center">
- <h1 align="center">
-  <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/Magdy-Abu-El-nour-10-14-2024.gif" alt="magdy"/>
+<h1 align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="300" height="300">
+    <defs>
+      <clipPath id="rounded-corners">
+        <rect width="100%" height="100%" rx="15" ry="15"/>
+      </clipPath>
+    </defs>
+    <image href="https://raw.githubusercontent.com/magdy246/magdy246/master/Magdy-Abu-El-nour-10-14-2024.gif" width="100%" height="100%" clip-path="url(#rounded-corners)" />
+  </svg>
 </h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer;UI+Developer;React+js&center=true&width=500&size=28&color=ffa500" alt="Typing SVG">
