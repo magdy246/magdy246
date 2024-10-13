@@ -67,8 +67,7 @@
        style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 80%; max-width: 100%; display: block; margin: 10px auto;" />
 </div>
 
-
-<br>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="magdy's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=magdy246&theme=redical"/></a>
 
 ---
 
@@ -162,19 +161,11 @@
   </a>
 </div>
 
-
----
-
-<p align="center"> ⏳ I'm currently learning and working on exciting new projects! Stay tuned for updates!</p>
-
----
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="magdy's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=magdy246&theme=redical"/></a>
-
 ---
 
 <!-- Commit Snake! -->
   
+<h1 align="center"> Dynamic GitHub Commit </h1>
   <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" 
        alt"Check out my commit history!" />
