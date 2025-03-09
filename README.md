@@ -1,6 +1,6 @@
 <div align="center">
  <h1 align="center">
-  <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/My-Name.gif" alt="magdy"/>
+  <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/My-Name.gif" alt="magdy"/>
 </h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer;UI+Developer;React+js&center=true&width=500&size=28&color=ffa500" alt="Typing SVG">
@@ -99,71 +99,71 @@
   
   <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
     <a href="https://e-commerce-one-tau-30.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/e-commerce.png" alt="Project 1" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/e-commerce.png" alt="Project 1" width="250">
   </a> 
 
   <a href="https://magdy246.github.io/magdy.abo.el-nour/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/portfolio.png" alt="Project 2" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/portfolio.png" alt="Project 2" width="250">
   </a>
 
   <a href="https://magdy246.github.io/Yummy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/yummy.png" alt="Project 3" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/yummy.png" alt="Project 3" width="250">
   </a>
 
   <a href="https://magdy246.github.io/My-Business-Card/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/card.png" alt="Project 4" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/card.png" alt="Project 4" width="250">
   </a>
   
   <a href="https://react-rho-five.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/react.png" alt="Project 5" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/react.png" alt="Project 5" width="250">
   </a>
 
   <a href="https://magdy246.github.io/Analysis/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/data.png" alt="Project 6" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/data.png" alt="Project 6" width="250">
   </a>
 
    <a href="https://magdy246.github.io/Games/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/game.png" alt="Project 7" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/game.png" alt="Project 7" width="250">
   </a>
   
   <a href="https://magdy246.github.io/Egyptian-Party/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/party.png" alt="Project 8" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/party.png" alt="Project 8" width="250">
   </a>
   
    <a href="https://github.com/magdy246/Weather-app" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/weather.png" alt="Project 9" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/weather.png" alt="Project 9" width="250">
   </a>
   
   <a href="https://magdy246.github.io/LOG-IN-SIGN-IN/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/signin.png" alt="Project 10" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/signin.png" alt="Project 10" width="250">
   </a>
 
    <a href="https://magdy246.github.io/Defolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/defolio.png" alt="Project 11" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/defolio.png" alt="Project 11" width="250">
   </a>
   
    <a href="https://magdy246.github.io/Grid-masterclass/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/grid.png" alt="Project 12" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/grid.png" alt="Project 12" width="250">
   </a>
 
    <a href="https://magdy246.github.io/Book-Mark/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/bookmark.png" alt="Project 13" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/bookmark.png" alt="Project 13" width="250">
   </a>
 
    <a href="https://magdy246.github.io/SIMPLE-CRUD-SYSTEM/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/crud.png" alt="Project 14" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/crud.png" alt="Project 14" width="250">
   </a>
 
    <a href="https://magdy246.github.io/Mealify/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/mealify.png" alt="Project 15" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/mealify.png" alt="Project 15" width="250">
   </a>
 
    <a href="https://magdy246.github.io/danials/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/danials.png" alt="Project 16" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/danials.png" alt="Project 16" width="250">
   </a>
 
    <a href="https://magdy246.github.io/Simple-Quote/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/Quote.png" alt="Project 17" width="250">
+    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/Quote.png" alt="Project 17" width="250">
   </a>
   </div>
 </details>
