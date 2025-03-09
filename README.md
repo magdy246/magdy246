@@ -189,6 +189,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=magdy246&label=Profile%20views&color=0e75b6&style=flat" alt="magdy246" /> 
+ [![committers.top badge](https://user-badge.committers.top/egypt_private/magdy246.svg)](https://user-badge.committers.top/egypt_private/magdy246)
 </p>
 
 
