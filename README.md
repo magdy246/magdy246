@@ -188,10 +188,10 @@
 ---
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=magdy246&label=Profile%20views&color=0e75b6&style=flat" alt="magdy246" /> 
- [![committers.top badge](https://user-badge.committers.top/egypt_private/magdy246.svg)](https://user-badge.committers.top/egypt_private/magdy246)
+  <img src="https://komarev.com/ghpvc/?username=magdy246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+[![Committers.top badge](https://user-badge.committers.top/egypt_private/magdy246.svg)](https://user-badge.committers.top/egypt_private/magdy246)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!+You+Are+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
 
