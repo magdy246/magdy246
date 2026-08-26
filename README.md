@@ -145,19 +145,18 @@ Contributed to frontend development in a professional environment while strength
 
 Core study includes programming fundamentals, object-oriented programming, data structures, databases, networking, frontend engineering, backend APIs, authentication, and deployment.
 
-## GitHub activity
+## Contributions in the last year
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=magdy246&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=magdy246&show_icons=true&hide_border=true&theme=default&bg_color=00000000" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=magdy246&show_icons=true&hide_border=true" alt="Magdy's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=magdy246&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=magdy246&layout=compact&hide_border=true&theme=default&bg_color=00000000" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=magdy246&layout=compact&hide_border=true" alt="Magdy's most used languages" />
-  </picture>
+  <a href="https://github.com/magdy246">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:0e75b6/magdy246" />
+      <source media="(prefers-color-scheme: light)" srcset="https://ghchart.xqsit94.in/light:0e75b6/magdy246" />
+      <img width="100%" src="https://ghchart.xqsit94.in/0e75b6/magdy246" alt="Magdy's GitHub contribution calendar for the last year" />
+    </picture>
+  </a>
+  <br />
+  <sub>Rolling 12-month contribution calendar · updated automatically from public GitHub activity</sub>
 </div>
 
 ## Let's build something useful
