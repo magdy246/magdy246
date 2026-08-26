@@ -145,14 +145,14 @@ Contributed to frontend development in a professional environment while strength
 
 Core study includes programming fundamentals, object-oriented programming, data structures, databases, networking, frontend engineering, backend APIs, authentication, and deployment.
 
-## Contributions in the last year
+## Live GitHub contributions
 
 <div align="center">
   <a href="https://github.com/magdy246">
     <img width="100%" src="./assets/github-contributions.svg" alt="Magdy's real GitHub contributions during the last year" />
   </a>
   <br />
-  <sub>Official GitHub contribution data · exact rolling 365-day window</sub>
+  <sub>Live GitHub profile data · exact rolling 365-day window · refreshed daily</sub>
 </div>
 
 ## Let's build something useful

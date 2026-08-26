@@ -9,30 +9,25 @@ start.setUTCDate(start.getUTCDate() - 364);
 const iso = (date) => date.toISOString().slice(0, 10);
 const days = new Map();
 
-for (let year = start.getUTCFullYear(); year <= end.getUTCFullYear(); year += 1) {
-  const url = `https://github.com/users/${username}/contributions?from=${year}-01-01&to=${year}-12-31`;
-  const response = await fetch(url, {
-    headers: {
-      Accept: "text/html",
-      "User-Agent": `${username}-profile-readme`,
-    },
+const contributionUrl = `https://github-contributions-api.jogruber.de/v4/${encodeURIComponent(username)}?y=last`;
+const response = await fetch(contributionUrl, {
+  headers: {
+    Accept: "application/json",
+    "User-Agent": `${username}-profile-readme`,
+  },
+});
+
+if (!response.ok) {
+  throw new Error(`Contribution request failed: ${response.status} ${response.statusText}`);
+}
+
+const payload = await response.json();
+for (const contribution of payload.contributions) {
+  days.set(contribution.date, {
+    date: new Date(`${contribution.date}T00:00:00Z`),
+    count: Number(contribution.count),
+    level: Number(contribution.level),
   });
-
-  if (!response.ok) {
-    throw new Error(`GitHub contribution request failed: ${response.status} ${response.statusText}`);
-  }
-
-  const html = await response.text();
-  const cellPattern = /<td\b(?=[^>]*data-date="(\d{4}-\d{2}-\d{2})")(?=[^>]*data-level="([0-4])")[^>]*>[\s\S]*?<\/td>\s*<tool-tip[^>]*>([\s\S]*?)<\/tool-tip>/g;
-
-  for (const match of html.matchAll(cellPattern)) {
-    const countMatch = match[3].match(/([\d,]+) contributions? on/i);
-    days.set(match[1], {
-      date: new Date(`${match[1]}T00:00:00Z`),
-      count: countMatch ? Number(countMatch[1].replaceAll(",", "")) : 0,
-      level: Number(match[2]),
-    });
-  }
 }
 
 const calendar = Array.from({ length: 365 }, (_, index) => {
@@ -47,6 +42,9 @@ if (calendar.filter((day) => days.has(iso(day.date))).length !== 365) {
 
 const total = calendar.reduce((sum, day) => sum + day.count, 0);
 const activeDays = calendar.filter((day) => day.count > 0).length;
+const currentYearTotal = calendar
+  .filter((day) => day.date.getUTCFullYear() === end.getUTCFullYear())
+  .reduce((sum, day) => sum + day.count, 0);
 const step = 14;
 const cellSize = 11;
 const left = 58;
@@ -84,7 +82,7 @@ const rangeFormat = new Intl.DateTimeFormat("en-US", {
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="title description">
   <title id="title">${total} contributions in the last year</title>
-  <desc id="description">GitHub contribution calendar for ${rangeFormat.format(start)} through ${rangeFormat.format(end)}, with ${activeDays} active days.</desc>
+  <desc id="description">GitHub contribution calendar for ${rangeFormat.format(start)} through ${rangeFormat.format(end)}, with ${activeDays} active days and ${currentYearTotal} contributions in ${end.getUTCFullYear()}.</desc>
   <style>
     text { font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     .title { fill: #0f172a; font-size: 18px; font-weight: 700; }
@@ -105,7 +103,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${
     }
   </style>
   <text class="title" x="12" y="24">${total} contributions in the last year</text>
-  <text class="muted" x="12" y="45">${rangeFormat.format(start)} — ${rangeFormat.format(end)} · ${activeDays} active days</text>
+  <text class="muted" x="12" y="45">${rangeFormat.format(start)} — ${rangeFormat.format(end)} · ${activeDays} active days · ${currentYearTotal.toLocaleString("en-US")} in ${end.getUTCFullYear()}</text>
 ${monthLabels.join("\n")}
   <text class="muted" x="12" y="${top + step + 9}">Mon</text>
   <text class="muted" x="12" y="${top + step * 3 + 9}">Wed</text>
