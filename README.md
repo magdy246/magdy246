@@ -149,14 +149,10 @@ Core study includes programming fundamentals, object-oriented programming, data 
 
 <div align="center">
   <a href="https://github.com/magdy246">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:0e75b6/magdy246" />
-      <source media="(prefers-color-scheme: light)" srcset="https://ghchart.xqsit94.in/light:0e75b6/magdy246" />
-      <img width="100%" src="https://ghchart.xqsit94.in/0e75b6/magdy246" alt="Magdy's GitHub contribution calendar for the last year" />
-    </picture>
+    <img width="100%" src="./assets/github-contributions.svg" alt="Magdy's real GitHub contributions during the last year" />
   </a>
   <br />
-  <sub>Rolling 12-month contribution calendar · updated automatically from public GitHub activity</sub>
+  <sub>Official GitHub contribution data · exact rolling 365-day window</sub>
 </div>
 
 ## Let's build something useful
@@ -168,5 +164,9 @@ I am always interested in thoughtful products, ambitious teams, and collaboratio
 <br />
 
 <p align="center">
-  <sub>My portfolio and LinkedIn are the live sources for current roles, availability, and newly published work.<br />README aligned with both profiles · August 2026</sub>
+  <sub>My portfolio and LinkedIn are the live sources for current roles, availability, and newly published work.</sub>
+  <br />
+  <a href="https://github.com/magdy246/magdy246/commits/master">
+    <img src="https://img.shields.io/github/last-commit/magdy246/magdy246?style=flat-square&label=README%20updated&color=0e75b6" alt="README last updated" />
+  </a>
 </p>
