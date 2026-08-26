@@ -1,0 +1,41 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Magdy Abo El-nour — Full-Stack Web Developer</title>
+  <desc id="desc">A minimal dark profile banner with blue accents describing Magdy's focus on product interfaces, dashboards, and geospatial applications.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="40" y1="16" x2="1160" y2="304" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F" />
+      <stop offset="1" stop-color="#0F1E33" />
+    </linearGradient>
+    <linearGradient id="accent" x1="105" y1="76" x2="382" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#2563EB" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#94A3B8" stroke-opacity="0.07" />
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="24" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#background)" />
+  <rect width="1200" height="320" rx="24" fill="url(#grid)" />
+  <circle cx="1045" cy="85" r="115" fill="#0EA5E9" fill-opacity="0.10" filter="url(#glow)" />
+  <circle cx="1115" cy="255" r="105" fill="#2563EB" fill-opacity="0.10" filter="url(#glow)" />
+
+  <rect x="76" y="72" width="6" height="176" rx="3" fill="url(#accent)" />
+
+  <text x="112" y="128" fill="#F8FAFC" font-size="50" font-weight="700" letter-spacing="-1.4" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Magdy Abo El-nour</text>
+  <text x="114" y="174" fill="#CBD5E1" font-size="22" font-weight="500" letter-spacing="0.2" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Full-Stack Web Developer · Frontend &amp; Product UI Specialist</text>
+
+  <rect x="112" y="203" width="472" height="38" rx="19" fill="#0F2741" stroke="#38BDF8" stroke-opacity="0.28" />
+  <text x="132" y="228" fill="#7DD3FC" font-size="15" font-weight="600" letter-spacing="0.25" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">React · TypeScript · Next.js · Dashboards · Geospatial UI</text>
+
+  <circle cx="948" cy="228" r="5" fill="#34D399" />
+  <text x="965" y="234" fill="#E2E8F0" font-size="16" font-weight="600" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Open to meaningful work</text>
+  <text x="965" y="260" fill="#94A3B8" font-size="14" font-weight="500" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Beheira, Egypt · Worldwide</text>
+
+  <path d="M927 72H1102" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" />
+  <text x="928" y="102" fill="#64748B" font-size="13" font-weight="700" letter-spacing="2.2" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">DESIGN × ENGINEERING</text>
+</svg>

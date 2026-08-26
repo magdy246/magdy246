@@ -1,199 +1,173 @@
 <div align="center">
- <h1 align="center">
-  <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/My-Name.gif" alt="magdy"/>
-</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer;UI+Developer;React+js&center=true&width=500&size=28&color=ffa500" alt="Typing SVG">
-  </a>
+  <img src="./assets/profile-banner.svg" width="100%" alt="Magdy Abo El-nour — Full-Stack Web Developer" />
+
+  <br />
+
+  <a href="https://www.magdyaboelnour.me/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/magdy-abo-el-nour-672997322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:magdy.aboelnour246@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/magdy246"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=magdy246&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </div>
+
+## About
+
+I am a **Full-Stack Web Developer with a frontend specialty**, building products where thoughtful interface design meets reliable engineering. My work ranges from geospatial intelligence dashboards and multi-role admin systems to healthcare platforms, B2B marketplaces, and polished brand experiences.
+
+I care about turning complex workflows into interfaces that feel clear, fast, and natural—supported by reusable components, maintainable architecture, and close attention to interaction details.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Currently</strong><br />
+      Frontend Developer<br />
+      <sub>Neea Studios Ltd</sub>
+    </td>
+    <td width="34%" valign="top">
+      <strong>Specialized in</strong><br />
+      Product UI &amp; geospatial apps<br />
+      <sub>Dashboards · Maps · Analytics</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Based in</strong><br />
+      Beheira, Egypt<br />
+      <sub>Working with teams worldwide</sub>
+    </td>
+  </tr>
+</table>
+
+## Experience
+
+### Frontend Developer · Neea Studios Ltd
+
+`Mar 2026 — Present` · Remote, Plymouth, United Kingdom
+
+Develop and maintain a React and TypeScript geospatial intelligence platform for admin and client workflows. The product includes stakeholder databases, project dashboards, map templates, data tools, campaign management, page-builder widgets, analytics, role-based routing, forms, uploads, and interactive visualizations.
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `Zustand` `TanStack Query` `Mapbox` `Leaflet` `Highcharts` `ECharts` `AWS Amplify`
+
+### Frontend Developer · Freelance
+
+`May 2024 — Present` · Remote
+
+Build responsive web applications and modern product interfaces for clients, translating business requirements and visual direction into maintainable React and Next.js experiences.
+
+`React` `Next.js` `React Native` `TypeScript` `Tailwind CSS` `Redux Toolkit` `RTK Query` `Zustand` `TanStack Query`
+
+### Frontend Web Developer · PioneerTecsa
+
+`Sep 2025 — Jan 2026`
+
+Helped build a modern corporate website for an industrial engineering and construction company, delivering responsive layouts, business-facing interactions, and polished motion across the experience.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Laravel` `Inertia.js` `GSAP` `Framer Motion` `Bootstrap`
+
+### Full-Stack Developer Trainee · Route Academy
+
+`Jan 2024 — Apr 2025`
+
+Completed hands-on full-stack training focused on building complete applications with modern frontend architecture, REST APIs, authentication, databases, and deployment workflows.
+
+`React` `Next.js` `Node.js` `Express` `MongoDB` `SQL` `REST APIs` `TypeScript`
+
+### Web Developer Intern · Local Tech Academy
+
+`Jan 2024 — Apr 2024`
+
+Contributed to frontend development in a professional environment while strengthening responsive design, collaboration, version control, and Agile delivery practices.
+
+`HTML` `CSS` `JavaScript` `React` `Tailwind CSS` `Bootstrap` `Git` `GitHub`
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Estockeh</strong> <sub>2026 · B2B marketplace</sub><br /><br />
+      Industrial marketplace with advanced discovery, bulk inquiries, and supplier-to-procurement workflows.<br /><br />
+      <sub>Next.js · TypeScript · Tailwind CSS · shadcn/ui</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Points Xpert</strong> <sub>2026 · Product platform</sub><br /><br />
+      Loyalty and rewards platform with clear dashboards for engagement, redemption cycles, and membership tiers.<br /><br />
+      <sub>Next.js · TypeScript · Tailwind CSS · TanStack Query</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>BrandiClick</strong> <sub>2025 · Web application</sub><br /><br />
+      Digital agency portal with immersive service discovery, client interaction tools, and streamlined onboarding.<br /><br />
+      <sub>React · TypeScript · Tailwind CSS · UI design</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Pioneer Tecsa</strong> <sub>2025 · Corporate website</sub><br /><br />
+      International engineering website built for clear project presentation, service discovery, and business growth.<br /><br />
+      <sub>Next.js · Tailwind CSS · Responsive design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Medeucare</strong> <sub>2025 · Healthcare</sub><br /><br />
+      Medical facilitation platform connecting international patients with trusted European care providers.<br /><br />
+      <sub>React · TypeScript · Inertia.js · Laravel</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Plump Clinics</strong> <sub>2025 · Healthcare</sub><br /><br />
+      Clinical operations platform for scheduling, patient records, and an improved consultation journey.<br /><br />
+      <sub>React · Laravel · Tailwind CSS · shadcn/ui</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  I’m a dedicated Front-End Developer passionate about turning concepts into dynamic, user-centric digital experiences. With a strong background in modern web technologies and design, I enjoy tackling challenges to build responsive and intuitive applications. Through my time at Route Academy, where I consistently ranked among the top students and completed several hands-on projects, I’ve honed my skills over two years of focused study in programming and web development. As I continue to learn and take on new projects, I’m always seeking opportunities to grow and push the boundaries of my expertise in this ever-evolving field.
+  <a href="https://www.magdyaboelnour.me/"><strong>Explore all case studies on my portfolio →</strong></a>
 </p>
 
----
+## Capabilities
 
-<h1 align="center"> 💻 Tech Stack </h1>
+| Area | Technologies |
+| --- | --- |
+| **Frontend engineering** | JavaScript (ES6+), TypeScript, React, Next.js, Vite, React Native |
+| **UI systems** | Tailwind CSS, shadcn/ui, MUI, Bootstrap, Sass, Framer Motion, GSAP |
+| **State & data flow** | Redux Toolkit, RTK Query, Zustand, TanStack React Query, Axios |
+| **Forms & validation** | React Hook Form, Zod, reusable CRUD workflows, authentication guards |
+| **Backend & data** | Node.js, Express, MongoDB, SQL, REST APIs, Firebase, Supabase |
+| **Maps & visualization** | Mapbox, Leaflet, Highcharts, ECharts, Chart.js |
+| **Delivery** | Git, GitHub, Postman, AWS Amplify, Vercel, Agile collaboration, Figma-to-code |
 
-<div align="center">
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/tailwindcss-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/ajax-%2300C7B7.svg?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/es6-%234ECD3C.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="ES6"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/react_query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux.js"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Flowbite-%233933CC.svg?style=for-the-badge&logo=flowbite&logoColor=white" alt="Flowbite"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Shadcn-%23000000.svg?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/DesiUI-%233AA69D.svg?style=for-the-badge&logo=desiui&logoColor=white" alt="DesiUI"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/APIs-%233399FF.svg?style=for-the-badge&logo=api&logoColor=white" alt="APIs"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/i18next-%2369C9D0.svg?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Regex-%231C3F8A.svg?style=for-the-badge&logo=regex&logoColor=white" alt="Regex"/>
-  <img style="border-redius: 10px;" src="https://img.shields.io/badge/Chart.js-%23632E3B.svg?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="Chart.js"/>
-</div>
+## Education
 
-<br/>
+**B.Sc. in Computer Science** · Damanhour University<br />
+`Sep 2021 — Jun 2025`
 
----
+**Full-Stack Node.js Diploma** · Route Academy<br />
+`Jan 2024 — Apr 2025`
 
-<div align="center" style="max-width: 400px; width: 100%; margin: auto;">
-  <h2 style="color: #2E8BC0;">📊 GitHub Streak</h2>
-  <img src="https://streak-stats.demolab.com?user=magdy246&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D" 
-       alt="GitHub Streak" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 80%; max-width: 100%; display: block; margin: 10px auto;" />
-</div>
+Core study includes programming fundamentals, object-oriented programming, data structures, databases, networking, frontend engineering, backend APIs, authentication, and deployment.
 
-<div align="center" style="max-width: 400px; width: 100%; margin: auto;">
-  <h2 style="color: #2E8BC0;">📊 Top Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=magdy246&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" 
-       alt="Top Languages" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 80%; max-width: 100%; display: block; margin: 10px auto;" />
-</div>
-
-<div align="center" style="max-width: 400px; width: 100%; margin: auto;">
-  <h2 style="color: #2E8BC0;">📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=magdy246&show_icons=true&theme=radical&hide_border=true" 
-       alt="GitHub Stats" 
-       style="border: 2px solid #2E8BC0; border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); width: 80%; max-width: 100%; display: block; margin: 10px auto;" />
-</div>
-
-<div align="center" style="max-width: 400px; width: 100%; margin: auto;">
-  <h2 style="color: #2E8BC0;">📊 GitHub Graph</h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="magdy's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=magdy246&theme=redical"/></a>
-</div>
-
----
-
-<h2 align="center"> 📫 Connect with Me </h2>
+## GitHub activity
 
 <div align="center">
-  <a href="mailto:magdy.aboelnour246@gmail.com">
-    <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail: Magdy Abo El-nour"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/magdy-abo-elnour-851741290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin: Magdy Abo El-nour"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/qr/V7F5TXJCKTGOK1">
-    <img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp: Magdy Abo El-nour"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=magdy246&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=magdy246&show_icons=true&hide_border=true&theme=default&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=magdy246&show_icons=true&hide_border=true" alt="Magdy's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=magdy246&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=magdy246&layout=compact&hide_border=true&theme=default&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=magdy246&layout=compact&hide_border=true" alt="Magdy's most used languages" />
+  </picture>
 </div>
 
----
+## Let's build something useful
 
-# 🚀 Latest Projects 
+I am always interested in thoughtful products, ambitious teams, and collaborations where strong engineering and a refined user experience matter.
 
-<details>
-  <summary>Click to see my latest projects!</summary>
-  
-  <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <a href="https://e-commerce-one-tau-30.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/e-commerce.png" alt="Project 1" width="250">
-  </a> 
+**[View my latest work](https://www.magdyaboelnour.me/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/magdy-abo-el-nour-672997322/)** · **[Send an email](mailto:magdy.aboelnour246@gmail.com)**
 
-  <a href="https://magdy246.github.io/magdy.abo.el-nour/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/portfolio.png" alt="Project 2" width="250">
-  </a>
+<br />
 
-  <a href="https://magdy246.github.io/Yummy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/yummy.png" alt="Project 3" width="250">
-  </a>
-
-  <a href="https://magdy246.github.io/My-Business-Card/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/card.png" alt="Project 4" width="250">
-  </a>
-  
-  <a href="https://react-rho-five.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/react.png" alt="Project 5" width="250">
-  </a>
-
-  <a href="https://magdy246.github.io/Analysis/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/data.png" alt="Project 6" width="250">
-  </a>
-
-   <a href="https://magdy246.github.io/Games/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/game.png" alt="Project 7" width="250">
-  </a>
-  
-  <a href="https://magdy246.github.io/Egyptian-Party/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/party.png" alt="Project 8" width="250">
-  </a>
-  
-   <a href="https://github.com/magdy246/Weather-app" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/weather.png" alt="Project 9" width="250">
-  </a>
-  
-  <a href="https://magdy246.github.io/LOG-IN-SIGN-IN/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/signin.png" alt="Project 10" width="250">
-  </a>
-
-   <a href="https://magdy246.github.io/Defolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/defolio.png" alt="Project 11" width="250">
-  </a>
-  
-   <a href="https://magdy246.github.io/Grid-masterclass/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/grid.png" alt="Project 12" width="250">
-  </a>
-
-   <a href="https://magdy246.github.io/Book-Mark/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/bookmark.png" alt="Project 13" width="250">
-  </a>
-
-   <a href="https://magdy246.github.io/SIMPLE-CRUD-SYSTEM/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/crud.png" alt="Project 14" width="250">
-  </a>
-
-   <a href="https://magdy246.github.io/Mealify/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/mealify.png" alt="Project 15" width="250">
-  </a>
-
-   <a href="https://magdy246.github.io/danials/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/danials.png" alt="Project 16" width="250">
-  </a>
-
-   <a href="https://magdy246.github.io/Simple-Quote/" target="_blank">
-    <img src="https://raw.githubusercontent.com/magdy246/magdy246/master/assets/Quote.png" alt="Project 17" width="250">
-  </a>
-  </div>
-</details>
-
----
-
-<!-- Commit Snake! -->
-  
-<h1 align="center"> Dynamic GitHub Commit </h1>
-<div align="center">
-  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" 
-       alt"Check out my commit history!" />
-  </a>
-  
-  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg" 
-         alt"Check out my commit history!" />
-  </a>
-</div>
-
----
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=magdy246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <sub>My portfolio and LinkedIn are the live sources for current roles, availability, and newly published work.<br />README aligned with both profiles · August 2026</sub>
 </p>
-
-<!-- [![Committers.top badge](https://user-badge.committers.top/egypt_private/magdy246.svg)](https://user-badge.committers.top/egypt_private/magdy246) -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!+You+Are+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
-
-
-
