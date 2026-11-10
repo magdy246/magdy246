@@ -88,18 +88,18 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${
     .title { fill: #0f172a; font-size: 18px; font-weight: 700; }
     .muted { fill: #64748b; }
     .level-0 { fill: #ebedf0; }
-    .level-1 { fill: #bae6fd; }
-    .level-2 { fill: #38bdf8; }
-    .level-3 { fill: #0ea5e9; }
-    .level-4 { fill: #0369a1; }
+    .level-1 { fill: #a7f3d0; }
+    .level-2 { fill: #34d399; }
+    .level-3 { fill: #059669; }
+    .level-4 { fill: #065f46; }
     @media (prefers-color-scheme: dark) {
       .title { fill: #f1f5f9; }
       .muted { fill: #94a3b8; }
       .level-0 { fill: #161b22; }
-      .level-1 { fill: #0c4a6e; }
-      .level-2 { fill: #075985; }
-      .level-3 { fill: #0284c7; }
-      .level-4 { fill: #38bdf8; }
+      .level-1 { fill: #064e3b; }
+      .level-2 { fill: #047857; }
+      .level-3 { fill: #10b981; }
+      .level-4 { fill: #6ee7b7; }
     }
   </style>
   <text class="title" x="12" y="24">${total} contributions in the last year</text>
